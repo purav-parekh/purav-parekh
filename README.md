@@ -4,11 +4,11 @@
 - 🖥️ I am a front-end engineer having worked in :javascript: Javascript, React and Django.
 - 🖥️ I previously worked as a Software Engineer - 1 at Adcuratio Media.
 - 😄 I also did a little freelancing before moving to USA for my masters.
-- 📫 You can find my work [here.](https://purav-parekh.netlify.app)
+- 📫 You can find my work [here](https://purav-parekh.netlify.app).
 
 - ⚡ I am current looking for Summer 2022 Internship oppurtunities as a software / front-end engineer. If you have any oppurtunities you can reach out me to at purav98@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purav-parekh&layout=compact&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purav-parekh&layout=compact&hide=jupyter%20notebook)]
 
 <!--
 **purav-parekh/purav-parekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
