@@ -8,7 +8,7 @@
 
 - ⚡ I am current looking for Summer 2022 Internship oppurtunities as a software / front-end engineer. If you have any oppurtunities you can reach out me to at purav98@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purav-parekh)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purav-parekh&layout=compact&hide=jupyter_notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **purav-parekh/purav-parekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
