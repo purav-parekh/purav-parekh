@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📖 I am a Master's student at The George Washington University.
-- 🖥️ I am a front-end engineer having worked in :javascript: Javascript, React and Django.
+- 🖥️ I am a front-end engineer having worked in Javascript, React and Django.
 - 🖥️ I previously worked as a Software Engineer - 1 at Adcuratio Media.
 - 😄 I also did a little freelancing before moving to USA for my masters.
 - 📫 You can find my work [here](https://purav-parekh.netlify.app).
