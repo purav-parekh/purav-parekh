@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 📖 I am a Master's student at The George Washington University.
-- 🖥️ I am a full stack engineer having worked in Javascript, React and Django.
-- 🖥️ I previously worked as a Software Engineer - 1 at Adcuratio Media Inc.
+- 📖 I am a final year Master's student at The George Washington University.
+- 🔭 I am a full stack engineer having experience working in Javascript, React and Django.
+- 🖥️ I worked as a Software Engineering Intern at [Normalyze.ai](https://normalyze.ai/) during Summer 2022 in Fremont, California.
 - 😄 I also worked as a freelancer before moving to the USA for my masters.
 - 📫 You can find my work [here](https://purav-parekh.netlify.app).
 
-- ⚡ I am current looking for Summer 2022 Internship opportunities as a software / front-end engineer. If you have any oppurtunities you can reach out to me at purav98@gmail.com
+- ⚡ I am current looking for Full time opportunities as a software / front-end engineer. If you have any oppurtunities you can reach out to me at purav98@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purav-parekh&layout=compact&hide=jupyter%20notebook)
 
