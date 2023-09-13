@@ -4,7 +4,7 @@
 - 🔭 I am a full stack engineer having experience working in Javascript, React, Node.js, Django and Amazon Web Services(AWS).
 - 🖥️ I worked as a Software Engineering Intern at [Normalyze.ai](https://normalyze.ai/) during Summer 2022 in Los Altos, California.
 - 😄 I also worked as a freelancer.
-- 📫 You can find my work [here](https://purav-parekh.netlify.app).
+- 📫 You can find my work [here](https://purav-parekh.com).
 
 - ⚡ I am current looking for Full time opportunities as a Software Engineer. If you have any oppurtunities you can reach out to me at purav98@gmail.com
 
