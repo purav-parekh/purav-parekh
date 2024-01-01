@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 📖 I am a recent Computer Science grad from The George Washington University.
-- 🔭 I am a full stack engineer having experience working in Javascript, React, Node.js, Django and Amazon Web Services(AWS).
+- 📖 I am working as a Full Stack Software Engineer at National Institute of Standards & Technology in the Applied Economics Office - [NIST](https://www.nist.gov/el/applied-economics-office).
+- 🔭 I have extensive experience working in Javascript, React, Node.js, Django and Amazon Web Services(AWS).
 - 🖥️ I worked as a Software Engineering Intern at [Normalyze.ai](https://normalyze.ai/) during Summer 2022 in Los Altos, California.
-- 😄 I also worked as a freelancer.
+- 😄 I also worked as a freelancer in India for 3 years.
 - 📫 You can find my work [here](https://purav-parekh.com).
 
 - ⚡ I am current looking for Full time opportunities as a Software Engineer. If you have any oppurtunities you can reach out to me at purav98@gmail.com
