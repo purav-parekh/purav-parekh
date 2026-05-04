@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-- 📖 I am working as a Full Stack AI Engineer at National Institute of Standards & Technology in the Applied Economics Office - [NIST](https://www.nist.gov/el/applied-economics-office).
-- 🔭 I have extensive experience working in Javascript, React, Node.js, Django and Amazon Web Services(AWS).
+- 📖 I am working as a Senior Software Engineer at National Institute of Standards & Technology in the Applied Economics Office - [NIST](https://www.nist.gov/el/applied-economics-office).
+- 🔭 I have extensive experience working in LLMs, RAG, Javascript, React, Node.js, and Amazon Web Services(AWS).
 - 🖥️ I worked as a Software Engineering Intern at [Normalyze.ai](https://normalyze.ai/) during Summer 2022 in Los Altos, California.
 - 😄 I also worked as a freelancer in India for 3 years.
 - 📫 You can find my work [here](https://purav-parekh.com).
-
-- ⚡ I am current looking for Full time opportunities as a Software Engineer. If you have any oppurtunities you can reach out to me at purav98@gmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purav-parekh&layout=compact&hide=jupyter%20notebook)
 
